@@ -1,0 +1,55 @@
+
+
+
+
+
+.nah {
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: solid;
+text-decoration-color: rgb(236, 196, 221);
+border-style: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+min-block-size: 500px;
+}
+
+.huh {
+    background-color: rgb(150, 119, 216);
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: solid;
+text-decoration-color: antiquewhite;
+border-style: hidden;
+box-shadow: 100px;
+align-items: center;
+margin: 5%;
+padding: 3%;
+font-size: 500%;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
+
+.oop {
+    background-color: bisque;
+    font-size: 2cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    -ms-grid-row-align: stretch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    table-layout: fixed;
+}
+
+.shakeit {
+    background-color: rgb(92, 126, 129);
+}
+
+.haha {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
